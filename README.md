@@ -1,4 +1,5 @@
-# Blue-Announcements - THIS ADDON REQUIRES BLUEPRINT TO FUNCTION.
+# Blue-Announcements 
+# THIS ADDON REQUIRES BLUEPRINT TO FUNCTION.
 
 ![Blue-Announcements Cover](https://blueprint.zip/browse/assets/blueannouncements.jpg)
 
