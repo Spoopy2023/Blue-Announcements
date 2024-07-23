@@ -1,4 +1,7 @@
 # Blue-Announcements - THIS ADDON REQUIRES BLUEPRINT TO FUNCTION.
+
+![Blue-Announcements Cover](https://blueprint.zip/browse/assets/blueannouncements.jpg)
+
 Create and manage announcements straight from your Pterodactyl Panel.
 
 ## How to install:
